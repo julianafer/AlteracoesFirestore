@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229646798871",
+    "project_id": "pratica-alteracoes-firestore",
+    "storage_bucket": "pratica-alteracoes-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229646798871:android:ae903265935e6560d40c52",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXI6cl4T_J-xe-pMX2W1B3Y1Xd0xPHiE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
